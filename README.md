@@ -5,4 +5,4 @@ line 2
 line 3  
 
 
-V0.2.snapshot
+V0.2
