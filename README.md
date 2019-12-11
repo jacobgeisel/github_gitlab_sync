@@ -2,7 +2,7 @@
 
 line 1
 line 2
-line3
+line 3
 
 
 V0.2.snapshot
