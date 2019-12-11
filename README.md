@@ -1,8 +1,5 @@
 # github_gitlab_sync
 
-line 1  
-line 2  
-line 3  
-line 4  
+line [1,2,3,4]  
 
 V0.4-snapshot
